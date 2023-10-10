@@ -4,3 +4,5 @@ const app = (arg: string, pattern: string): boolean => {
   }
   return true
 }
+
+const c = "hello";
