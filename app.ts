@@ -5,4 +5,8 @@ const app = (arg: string, pattern: string): boolean => {
   return true
 }
 
+<<<<<<< HEAD
 const c = "hello world";
+=======
+const c = "hello world";
+>>>>>>> main
