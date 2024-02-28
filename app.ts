@@ -5,3 +5,6 @@ const app = (arg: string, pattern: string): boolean => {
   }
   return true
 }
+
+const arrInt: number[] = []
+const simpleString: string = 'simple string'
